@@ -6,7 +6,7 @@ def take_a_number(katz_deli, a)
   puts "your name is #{a} and you number is #{katz_deli}"
 end
 
-learn
+
 
 
 
