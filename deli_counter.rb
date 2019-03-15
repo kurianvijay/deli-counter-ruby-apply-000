@@ -2,11 +2,14 @@
 katz_deli = []
 
 
-def take_a_number(katz_deli, a)
-  puts "your name is #{a} and you number is #{katz_deli}"
-end
+def take_a_number(array, name)
+array << name  
+array.length
+ puts "your name is #{name} and you number is #{array.length}"
+en
 
-
+# add new incoming element
+# return index number of the element 
 
 
 
